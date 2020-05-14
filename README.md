@@ -1,0 +1,2 @@
+# frzsh
+Just another repository
